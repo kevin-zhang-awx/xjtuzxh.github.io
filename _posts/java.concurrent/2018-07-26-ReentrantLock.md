@@ -1,0 +1,3 @@
+LinkedBlockingQueue
+采用读写双锁
+ReentrantLock

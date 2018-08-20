@@ -28,3 +28,6 @@ ArrayBlockingQueue
     
     void removeAt(final int removeIndex);
 ```
+
+LinkedBlockingQueue
+采用读写双锁
